@@ -48,4 +48,9 @@ You might want to increase your open file descriptor limit before doing anything
 
 ## TODO
 
-* Create an index file in the output directory
+* Create an index file in the output directory  
+
+### createIndex.sh  
+
+* Create index file inside `out` directory.   
+* Run script outside `out`.  
